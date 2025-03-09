@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: pink;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    color: rgb(54, 0, 54);
+}
+
+h1 {
+    font-size: 3.5em;
+}
+
+.container {
+    margin-top: 5%;
+}
+
+.countdown-container {
+    border: 2px solid palevioletred;
+    background-color: palevioletred;
+    border-radius: 12px;
+    width: 80%;
+    margin: 10px auto;
+    font-size: 3em;
+    height: fit-content;
+}
+
+.hidden {
+    display: none;
+}
+
